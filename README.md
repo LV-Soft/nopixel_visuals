@@ -2,6 +2,6 @@
 
 copy `nopixel_visuals` to resouces folder
 
-ensure in youe server.cfg `ensure 'nopixel_visuals'`
+ensure in your server.cfg `ensure 'nopixel_visuals'`
 
 Credits Razed
